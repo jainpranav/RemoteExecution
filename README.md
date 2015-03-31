@@ -8,5 +8,5 @@ Currently , the repo only contains a script for executing SQL Queries
 
 #### Bug Reports & Feature Requests
 
-Please use the [issue tracker](https://github.com/jainpranav/Minesweeper/issues) to report any bugs or file feature requests
+Please use the [issue tracker](https://github.com/jainpranav/RemoteExecution/issues) to report any bugs or file feature requests
 
